@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hamza Zaka</h1>
 <h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications.Thanks for visiting!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishazaka&label=Profile%20views&color=0e75b6&style=flat" alt="ishazaka" /> </p>
+
 - 🔭 I’m currently working in **NIH**
 
 - 🌱 I’m currently learning **Machine Learning**
