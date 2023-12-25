@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Zaka</h1>
 <h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications.Thanks for visiting!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![image](https://github.com/hamzazaka/hamzazaka/assets/39979367/92cdf89a-679a-4709-8d74-727e07db0090)
-" alt="hamzazaka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1zX7LiNxrQIendyWALGCO0&ust=1703630171973000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiF9Z3Tq4MDFQAAAAAdAAAAABAD" alt="hamzazaka" /></a> </p>
 
 - 🔭 I’m currently working in **NIH**
 
