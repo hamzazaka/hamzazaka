@@ -1,4 +1,4 @@
-![Screen Shot 2021-04-13 at 11 49 59 PM](https://user-images.githubusercontent.com/53010153/114656072-08769400-9cb3-11eb-83d0-fc066297feb1.png)
+
 <h1 align="center">Hi 👋, I'm Hamza Zaka</h1>
 <h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications.Thanks for visiting!</h3>
 
