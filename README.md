@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications.Thanks for visiting!</h3>
+<h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications</h3>
 
 <img align="right" alt='coding' width='400' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'>
 
