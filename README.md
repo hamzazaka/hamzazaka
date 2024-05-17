@@ -1,23 +1,7 @@
 
 <h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications</h3>
 
-<img align="right" alt='coding' width='400' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishazaka&label=Profile%20views&color=0e75b6&style=flat" alt="ishazaka" /> </p>
-
-- 🔭 I’m currently working in **NIH**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 👨‍💻 All of my projects are available at [https://hamzazaka.com](https://hamzazaka.com)
-
-- 📝 I regularly write articles on [https://hamzazaka.medium.com/](https://hamzazaka.medium.com/)
-
-- 💬 Ask me about **React, Javascript, Node**
-
-- 📫 How to reach me **hamzazaka887@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
