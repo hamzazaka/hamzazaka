@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm a full Stack developer. I love solving problems with code and building applications</h3>
+<h3 align="center ">I'm a full Stack developer. I love solving problems with code and building applications</h3>
 
 
 
